@@ -1,0 +1,6 @@
+[submodule "movies-dynamodb-lambda"]
+	path = movies-dynamodb-lambda
+	url = https://github.com/mlabouardy/movies-dynamodb-lambda.git
+[submodule "schedule-mail-lambda"]
+	path = schedule-mail-lambda
+	url = https://github.com/mlabouardy/schedule-mail-lambda.git
